@@ -1,2 +1,2 @@
-# Web-design-Project
-There are five small web design Project
+# Web-design-Projects
+There are five small web design Projects
